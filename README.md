@@ -1,4 +1,4 @@
-# Making_sense_of_data
+# Campaign Pulse: Crafting Campaigns from Social Media Insights
 
 **Objective**: Enhance marketing strategy with social media data analysis to direct campaign efforts.
 
